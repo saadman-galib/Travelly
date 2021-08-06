@@ -161,6 +161,8 @@ nav ul{
     opacity: 0.5;
 }
 
+
+/* cloudAnimation keyframe */
 @keyframes cloudAnimation{
     from{
         transform: translate(10%, -10%);
