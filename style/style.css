@@ -294,7 +294,9 @@ footer ul{
     flex: 1 1 40rem;
     align-items: center;
     justify-content: space-between;
+    cursor: pointer;
 }
+
 
 /* Media Query */
 @media screen and (max-width: 970px) {
